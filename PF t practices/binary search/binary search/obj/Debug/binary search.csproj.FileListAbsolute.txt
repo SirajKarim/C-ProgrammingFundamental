@@ -1,0 +1,4 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\binary search\binary search\bin\Debug\binary search.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\binary search\binary search\obj\Debug\binary search.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\binary search\binary search\bin\Debug\binary search.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\binary search\binary search\bin\Debug\binary search.exe.config

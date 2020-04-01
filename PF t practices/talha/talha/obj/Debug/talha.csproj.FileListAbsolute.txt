@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha\talha\bin\Debug\talha.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha\talha\bin\Debug\talha.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha\talha\bin\Debug\talha.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha\talha\obj\Debug\talha.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha\talha\obj\Debug\talha.pdb

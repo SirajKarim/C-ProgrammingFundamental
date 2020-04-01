@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 2 avg\task 2 avg\bin\Debug\task 2 avg.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 2 avg\task 2 avg\bin\Debug\task 2 avg.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 2 avg\task 2 avg\bin\Debug\task 2 avg.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 2 avg\task 2 avg\obj\Debug\task 2 avg.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 2 avg\task 2 avg\obj\Debug\task 2 avg.pdb

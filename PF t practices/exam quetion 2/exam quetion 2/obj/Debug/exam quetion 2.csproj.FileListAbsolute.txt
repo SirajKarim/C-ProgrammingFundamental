@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\exam quetion 2\exam quetion 2\bin\Debug\exam quetion 2.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\exam quetion 2\exam quetion 2\bin\Debug\exam quetion 2.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\exam quetion 2\exam quetion 2\bin\Debug\exam quetion 2.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\exam quetion 2\exam quetion 2\obj\Debug\exam quetion 2.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\exam quetion 2\exam quetion 2\obj\Debug\exam quetion 2.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\exam quetion 2\exam quetion 2\obj\Debug\exam quetion 2.csprojResolveAssemblyReference.cache

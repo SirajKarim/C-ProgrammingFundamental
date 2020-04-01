@@ -1,0 +1,21 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\bin\Debug\reverse function.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\bin\Debug\reverse function.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\bin\Debug\reverse function.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\obj\Debug\reverse function.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\obj\Debug\reverse function.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\reverse function\reverse function\obj\Debug\reverse function.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\bin\Debug\reverse function.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\obj\Debug\reverse function.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\obj\Debug\reverse function.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\bin\Debug\reverse function.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\bin\Debug\reverse function.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 7 reverse function\reverse function\obj\Debug\reverse function.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\bin\Debug\reverse function.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\obj\Debug\reverse function.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\obj\Debug\reverse function.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\bin\Debug\reverse function.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\bin\Debug\reverse function.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 7 reverse function\reverse function\obj\Debug\reverse function.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 7 reverse function\reverse function\bin\Debug\reverse function.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 7 reverse function\reverse function\obj\Debug\reverse function.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 7 reverse function\reverse function\obj\Debug\reverse function.pdb

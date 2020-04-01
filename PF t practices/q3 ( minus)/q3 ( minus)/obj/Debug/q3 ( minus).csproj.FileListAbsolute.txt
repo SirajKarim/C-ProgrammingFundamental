@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( minus)\q3 ( minus)\bin\Debug\q3 ( minus).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( minus)\q3 ( minus)\bin\Debug\q3 ( minus).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( minus)\q3 ( minus)\bin\Debug\q3 ( minus).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( minus)\q3 ( minus)\obj\Debug\q3 ( minus).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( minus)\q3 ( minus)\obj\Debug\q3 ( minus).pdb

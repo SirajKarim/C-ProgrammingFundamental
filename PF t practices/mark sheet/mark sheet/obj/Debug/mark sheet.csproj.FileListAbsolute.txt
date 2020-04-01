@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\mark sheet\mark sheet\bin\Debug\mark sheet.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\mark sheet\mark sheet\bin\Debug\mark sheet.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\mark sheet\mark sheet\bin\Debug\mark sheet.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\mark sheet\mark sheet\obj\Debug\mark sheet.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\mark sheet\mark sheet\obj\Debug\mark sheet.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\mark sheet\mark sheet\obj\Debug\mark sheet.pdb

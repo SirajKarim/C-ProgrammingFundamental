@@ -1,0 +1,9 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4s\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4s\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4s\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb

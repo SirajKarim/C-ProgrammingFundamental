@@ -1,0 +1,11 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\4m\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\4m\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\4m\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4m\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4m\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4m\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb

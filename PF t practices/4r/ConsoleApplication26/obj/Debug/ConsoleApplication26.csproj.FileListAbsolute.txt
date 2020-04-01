@@ -1,0 +1,8 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication26\ConsoleApplication26\obj\Debug\ConsoleApplication26.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication26\ConsoleApplication26\obj\Debug\ConsoleApplication26.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4r\ConsoleApplication26\bin\Debug\ConsoleApplication26.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4r\ConsoleApplication26\obj\Debug\ConsoleApplication26.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4r\ConsoleApplication26\obj\Debug\ConsoleApplication26.pdb

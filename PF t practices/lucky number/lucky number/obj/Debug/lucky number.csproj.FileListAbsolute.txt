@@ -1,0 +1,9 @@
+D:\uni work\lucky number\lucky number\bin\Debug\lucky number.exe.config
+D:\uni work\lucky number\lucky number\bin\Debug\lucky number.exe
+D:\uni work\lucky number\lucky number\bin\Debug\lucky number.pdb
+D:\uni work\lucky number\lucky number\obj\Debug\lucky number.csprojResolveAssemblyReference.cache
+D:\uni work\lucky number\lucky number\obj\Debug\lucky number.exe
+D:\uni work\lucky number\lucky number\obj\Debug\lucky number.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\lucky number\lucky number\bin\Debug\lucky number.exe.config
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\lucky number\lucky number\obj\Debug\lucky number.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\lucky number\lucky number\obj\Debug\lucky number.pdb

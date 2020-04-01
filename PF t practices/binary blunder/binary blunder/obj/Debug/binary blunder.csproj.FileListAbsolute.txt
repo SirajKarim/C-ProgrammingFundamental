@@ -1,0 +1,13 @@
+D:\uni work\binary blunder\binary blunder\bin\Debug\binary blunder.exe.config
+D:\uni work\binary blunder\binary blunder\bin\Debug\binary blunder.exe
+D:\uni work\binary blunder\binary blunder\bin\Debug\binary blunder.pdb
+D:\uni work\binary blunder\binary blunder\obj\Debug\binary blunder.exe
+D:\uni work\binary blunder\binary blunder\obj\Debug\binary blunder.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\binary blunder\binary blunder\bin\Debug\binary blunder.exe.config
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\binary blunder\binary blunder\obj\Debug\binary blunder.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\binary blunder\binary blunder\obj\Debug\binary blunder.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\binary blunder\binary blunder\bin\Debug\binary blunder.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\binary blunder\binary blunder\bin\Debug\binary blunder.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\binary blunder\binary blunder\bin\Debug\binary blunder.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\binary blunder\binary blunder\obj\Debug\binary blunder.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\binary blunder\binary blunder\obj\Debug\binary blunder.pdb

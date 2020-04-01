@@ -1,0 +1,21 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\bin\Debug\aptech count.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\obj\Debug\aptech count.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\bin\Debug\aptech count.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\bin\Debug\aptech count.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\obj\Debug\aptech count.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech count\aptech count\obj\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\bin\Debug\aptech count.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech count\aptech count\obj\Debug\aptech count.csprojResolveAssemblyReference.cache

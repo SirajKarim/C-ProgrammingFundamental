@@ -1,0 +1,18 @@
+D:\uni work\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe.config
+D:\uni work\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe
+D:\uni work\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.pdb
+D:\uni work\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.csprojResolveAssemblyReference.cache
+D:\uni work\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.exe
+D:\uni work\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe.config
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\bin\Debug\customized panaldrome.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\customized panaldrome\customized panaldrome\obj\Debug\customized panaldrome.csprojResolveAssemblyReference.cache

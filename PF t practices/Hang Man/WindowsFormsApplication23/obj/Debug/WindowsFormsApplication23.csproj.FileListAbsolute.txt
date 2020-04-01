@@ -1,0 +1,22 @@
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form2.resources
+c:\users\glab\documents\visual studio 2012\Projects\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form3.resources
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form2.resources
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form3.resources
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\Hang Man\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache

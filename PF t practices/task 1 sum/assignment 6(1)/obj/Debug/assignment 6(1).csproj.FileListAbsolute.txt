@@ -1,0 +1,9 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\bin\Debug\assignment 6(1).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\bin\Debug\assignment 6(1).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\bin\Debug\assignment 6(1).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\obj\Debug\assignment 6(1).csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\obj\Debug\assignment 6(1).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(1)\assignment 6(1)\obj\Debug\assignment 6(1).pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 1 sum\assignment 6(1)\bin\Debug\assignment 6(1).exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 1 sum\assignment 6(1)\obj\Debug\assignment 6(1).exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 1 sum\assignment 6(1)\obj\Debug\assignment 6(1).pdb

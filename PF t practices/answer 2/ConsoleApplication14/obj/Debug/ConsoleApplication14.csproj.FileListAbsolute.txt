@@ -1,0 +1,18 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 2\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb

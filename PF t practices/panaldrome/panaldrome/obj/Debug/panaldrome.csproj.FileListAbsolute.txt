@@ -1,0 +1,8 @@
+D:\uni work\panaldrome\panaldrome\bin\Debug\panaldrome.exe.config
+D:\uni work\panaldrome\panaldrome\bin\Debug\panaldrome.exe
+D:\uni work\panaldrome\panaldrome\bin\Debug\panaldrome.pdb
+D:\uni work\panaldrome\panaldrome\obj\Debug\panaldrome.exe
+D:\uni work\panaldrome\panaldrome\obj\Debug\panaldrome.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\panaldrome\panaldrome\bin\Debug\panaldrome.exe.config
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\panaldrome\panaldrome\obj\Debug\panaldrome.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\panaldrome\panaldrome\obj\Debug\panaldrome.pdb

@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( multiply)\q3 ( multiply)\bin\Debug\q3 ( multiply).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( multiply)\q3 ( multiply)\bin\Debug\q3 ( multiply).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( multiply)\q3 ( multiply)\bin\Debug\q3 ( multiply).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( multiply)\q3 ( multiply)\obj\Debug\q3 ( multiply).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 ( multiply)\q3 ( multiply)\obj\Debug\q3 ( multiply).pdb

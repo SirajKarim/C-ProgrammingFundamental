@@ -1,0 +1,12 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\bin\Debug\assignment 6 (mark sheet).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\bin\Debug\assignment 6 (mark sheet).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\bin\Debug\assignment 6 (mark sheet).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\bin\Debug\assignment 6 (mark sheet).exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\bin\Debug\assignment 6 (mark sheet).exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 6 (mark sheet)\assignment 6 (mark sheet)\obj\Debug\assignment 6 (mark sheet).csprojResolveAssemblyReference.cache

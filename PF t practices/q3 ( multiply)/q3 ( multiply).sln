@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "q3 ( multiply)", "q3 ( multiply)\q3 ( multiply).csproj", "{776C0AA0-CAF1-4B01-B5F0-4E4151163FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776C0AA0-CAF1-4B01-B5F0-4E4151163FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776C0AA0-CAF1-4B01-B5F0-4E4151163FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776C0AA0-CAF1-4B01-B5F0-4E4151163FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776C0AA0-CAF1-4B01-B5F0-4E4151163FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice 3\practice 3\bin\Debug\practice 3.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice 3\practice 3\bin\Debug\practice 3.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice 3\practice 3\bin\Debug\practice 3.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice 3\practice 3\obj\Debug\practice 3.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice 3\practice 3\obj\Debug\practice 3.pdb

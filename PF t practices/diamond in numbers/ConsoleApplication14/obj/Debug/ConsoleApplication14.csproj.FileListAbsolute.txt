@@ -1,0 +1,17 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\diamond in numbers\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\uni work\next generation\next generation\bin\Debug\next generation.exe.config
+D:\uni work\next generation\next generation\bin\Debug\next generation.exe
+D:\uni work\next generation\next generation\bin\Debug\next generation.pdb
+D:\uni work\next generation\next generation\obj\Debug\next generation.csprojResolveAssemblyReference.cache
+D:\uni work\next generation\next generation\obj\Debug\next generation.exe
+D:\uni work\next generation\next generation\obj\Debug\next generation.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\bin\Debug\next generation.exe.config
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\obj\Debug\next generation.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\obj\Debug\next generation.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\bin\Debug\next generation.exe
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\bin\Debug\next generation.pdb
+C:\Users\Muhammad Siraj\Downloads\practise assignment 3\next generation\next generation\obj\Debug\next generation.csprojResolveAssemblyReference.cache

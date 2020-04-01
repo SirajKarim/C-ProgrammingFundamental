@@ -1,0 +1,9 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\bin\Debug\bubble sorting.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\obj\Debug\bubble sorting.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\bin\Debug\bubble sorting.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\bin\Debug\bubble sorting.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\obj\Debug\bubble sorting.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\bubble sorting\bubble sorting\obj\Debug\bubble sorting.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\bubble sorting\bubble sorting\bin\Debug\bubble sorting.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\bubble sorting\bubble sorting\obj\Debug\bubble sorting.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\bubble sorting\bubble sorting\obj\Debug\bubble sorting.pdb

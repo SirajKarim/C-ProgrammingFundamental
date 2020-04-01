@@ -1,0 +1,5 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 even or odd\q3 even or odd\bin\Debug\q3 even or odd.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 even or odd\q3 even or odd\bin\Debug\q3 even or odd.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 even or odd\q3 even or odd\bin\Debug\q3 even or odd.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 even or odd\q3 even or odd\obj\Debug\q3 even or odd.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\q3 even or odd\q3 even or odd\obj\Debug\q3 even or odd.pdb

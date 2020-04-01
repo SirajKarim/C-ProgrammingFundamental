@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\bin\Debug\selection sorting.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\bin\Debug\selection sorting.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\bin\Debug\selection sorting.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\obj\Debug\selection sorting.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\obj\Debug\selection sorting.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\selection sorting\selection sorting\obj\Debug\selection sorting.pdb

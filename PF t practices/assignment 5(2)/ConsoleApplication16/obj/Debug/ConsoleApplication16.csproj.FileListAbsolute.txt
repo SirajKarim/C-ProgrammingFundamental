@@ -1,0 +1,20 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(2)\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(2)\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb

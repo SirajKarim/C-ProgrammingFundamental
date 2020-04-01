@@ -1,0 +1,8 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4t\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4t\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\4t\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb

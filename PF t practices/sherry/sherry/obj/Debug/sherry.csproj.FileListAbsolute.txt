@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\bin\Debug\sherry.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\bin\Debug\sherry.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\bin\Debug\sherry.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\obj\Debug\sherry.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\obj\Debug\sherry.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\sherry\sherry\obj\Debug\sherry.pdb

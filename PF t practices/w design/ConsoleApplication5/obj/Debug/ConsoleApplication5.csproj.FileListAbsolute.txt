@@ -1,0 +1,21 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Shoaib\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\w design\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache

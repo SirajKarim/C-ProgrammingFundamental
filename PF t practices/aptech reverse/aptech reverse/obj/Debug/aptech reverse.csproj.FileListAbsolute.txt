@@ -1,0 +1,24 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\bin\Debug\aptech reverse.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\obj\Debug\aptech reverse.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\obj\Debug\aptech reverse.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\aptech reverse\aptech reverse\obj\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\bin\Debug\aptech reverse.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\aptech reverse\aptech reverse\obj\Debug\aptech reverse.csprojResolveAssemblyReference.cache

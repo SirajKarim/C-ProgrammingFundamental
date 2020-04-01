@@ -1,0 +1,12 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\bin\Debug\task 4 lowest no.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\task 4 lowest no\task 4 lowest no\obj\Debug\task 4 lowest no.csprojResolveAssemblyReference.cache

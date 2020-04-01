@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\bin\Debug\practice for exam.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\bin\Debug\practice for exam.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\bin\Debug\practice for exam.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\obj\Debug\practice for exam.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\obj\Debug\practice for exam.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\practice for exam\practice for exam\obj\Debug\practice for exam.pdb

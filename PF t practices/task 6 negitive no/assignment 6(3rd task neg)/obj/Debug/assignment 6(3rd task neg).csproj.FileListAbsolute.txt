@@ -1,0 +1,15 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 6(3rd task neg)\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 6 negitive no\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 6 negitive no\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\task 6 negitive no\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\bin\Debug\assignment 6(3rd task neg).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\task 6 negitive no\assignment 6(3rd task neg)\obj\Debug\assignment 6(3rd task neg).csprojResolveAssemblyReference.cache

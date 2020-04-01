@@ -1,0 +1,24 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(7)\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache

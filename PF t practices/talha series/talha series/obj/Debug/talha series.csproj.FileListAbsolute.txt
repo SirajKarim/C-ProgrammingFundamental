@@ -1,0 +1,6 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\bin\Debug\talha series.exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\bin\Debug\talha series.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\bin\Debug\talha series.pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\obj\Debug\talha series.csprojResolveAssemblyReference.cache
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\obj\Debug\talha series.exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\talha series\talha series\obj\Debug\talha series.pdb

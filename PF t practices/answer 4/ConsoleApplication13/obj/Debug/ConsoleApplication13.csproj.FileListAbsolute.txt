@@ -1,0 +1,21 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Talha\Documents\Visual Studio 2012\Projects\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 4\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Muhammad Siraj\Documents\Programming Fundamental\PF talha practices\answer 4\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

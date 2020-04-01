@@ -1,0 +1,15 @@
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe.config
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).pdb
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).exe
+c:\users\muhammad talha\documents\visual studio 2012\Projects\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe.config
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).pdb
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe
+C:\Users\Muhammad Siraj\Desktop\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe.config
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(6)\assignment 5(6)\obj\Debug\assignment 5(6).pdb
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).exe
+C:\Users\Muhammad Siraj\Documents\PF talha practices\assignment 5(6)\assignment 5(6)\bin\Debug\assignment 5(6).pdb
